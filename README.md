@@ -4,10 +4,10 @@ Software Engineer
 
 <div>
     <a href="mailto:luanntech@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30" height="30" style="margin-right: 10px">
     </a>
     <a href="https://www.linkedin.com/in/luannamorim" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30" height="30" style="margin-right: 10px">
     </a>   
 </div>
 
