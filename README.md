@@ -1,8 +1,12 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 ### Hello, I'm Yago Luann 👋
 
 <p dir="auto">Software Engineer</p>
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<i class="devicon-python-plain"></i>
+          
 
 <h2 dir="auto"></h2>
 <div>
