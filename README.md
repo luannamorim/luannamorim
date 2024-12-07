@@ -7,6 +7,7 @@ Software Engineer
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30" height="30" style="margin-right: 10px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" height="30" style="margin-right: 10px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" style="margin-right: 10px"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/powerbi-original.svg" width="30" height="30" style="margin-right: 10px"/>
 </div>
 
 <h2 dir="auto"></h2>
