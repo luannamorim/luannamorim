@@ -1,13 +1,11 @@
-# Luann Amorim
+# **Luann Amorim**
 
-Engenheiro de Software especializado em Python com foco em desenvolvimento backend e soluções escaláveis.
+Engenheiro de Software especializado em **Python**, com foco em **backend**, **inteligência artificial** e **soluções escaláveis**.
 
-## Stack Principal
+## **Stack Principal**
 
-Python • Django • FastAPI • PostgreSQL • Docker • AWS
+Python • Django • FastAPI • PostgreSQL • Docker • AWS • IA/ML
 
-## Experiência
+## **Experiência**
 
-Desenvolvimento de APIs, microserviços e automação de processos. Trabalho com arquiteturas escaláveis e código limpo seguindo boas práticas de engenharia de software.
-
-Atualmente me aprofundando em Inteligência Artificial e Machine Learning, explorando aplicações práticas de IA em soluções de software.
+Desenvolvimento de APIs, microserviços e sistemas inteligentes. Atuação com **arquiteturas escaláveis**, **automação de processos** e **integração de IA em produtos digitais**, sempre seguindo boas práticas e princípios de **engenharia de software limpa**.
