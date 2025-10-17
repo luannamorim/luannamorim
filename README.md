@@ -1,6 +1,6 @@
 # Luann Amorim
 
-Engenheiro de Software especializado em Python com foco em desenvolvimento backend e soluções escaláveis. Atualmente me aprofundando em Inteligência Artificial e Machine Learning.
+Engenheiro de Software especializado em Python com foco em desenvolvimento backend e soluções escaláveis.
 
 ## Stack Principal
 
