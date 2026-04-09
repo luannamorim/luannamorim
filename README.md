@@ -1,11 +1,36 @@
-# **Luann Amorim**
+# Hey, I'm Luann 👋
 
-Engenheiro de Software especializado em **Python**, com foco em **backend**, **inteligência artificial** e **soluções escaláveis**.
+**Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
 
-## **Stack Principal**
+I'm a backend developer with 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas and making a deliberate transition into AI Engineering.
 
-Python • Django • FastAPI • PostgreSQL • Docker • AWS • IA/ML
+I don't come from notebooks — I come from production. My background is in shipping reliable backend systems, and now I'm applying that same engineering discipline to LLM applications, RAG pipelines, AI agents, and MLOps.
 
-## **Experiência**
+---
 
-Desenvolvimento de APIs, microserviços e sistemas inteligentes. Atuação com **arquiteturas escaláveis**, **automação de processos** e **integração de IA em produtos digitais**, sempre seguindo boas práticas e princípios de **engenharia de software limpa**.
+## 🔧 What I Work With
+
+**AI & LLMs:** LangChain · LlamaIndex · RAG · AI Agents · MCP · Prompt Engineering · LLM Evaluation  
+**Backend:** Python · FastAPI · REST APIs · PostgreSQL · Redis · System Design
+**MLOps & Infra:** Docker · CI/CD · GitHub Actions · Langfuse · OpenTelemetry · Grafana  
+**Also used:** Scikit-learn · XGBoost · Pydantic · pytest · TypeScript · React
+
+---
+
+## 📐 How I Think About AI Engineering
+
+I believe the gap in the market isn't "people who can call an LLM API" — it's **engineers who can build, evaluate, deploy, and operate AI systems in production**. That's the lane I'm building in.
+
+Every project in this portfolio reflects a question I'd ask in a production setting:
+
+- How do we **know** this system is working? → evaluation & metrics  
+- What happens when it **fails**? → error handling & recovery  
+- How much does it **cost** per request? → observability & tracking  
+- Can someone else **run** this? → Docker, CI/CD, documentation  
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luannamorim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luanntech@gmail.com)
