@@ -11,9 +11,10 @@ I don't come from notebooks. I come from production. My background is in shippin
 ## 🔧 What I Work With
 
 **AI & LLMs:** LangChain · LlamaIndex · RAG · AI Agents · MCP · Prompt Engineering · LLM Evaluation  
-**Backend:** Python · FastAPI · Node.js · REST APIs · PostgreSQL · Redis · System Design  
+**Backend:** Python · FastAPI · Node.js · REST APIs · Celery · RabbitMQ · PostgreSQL · Redis  
 **Frontend:** TypeScript · React  
-**MLOps & Infra:** Docker · CI/CD · GitHub Actions · Langfuse · OpenTelemetry · Grafana  
+**Cloud & Infra:** AWS · Docker · Linux · CI/CD · GitHub Actions  
+**Observability:** Langfuse · OpenTelemetry · Grafana  
 **Also used:** Scikit-learn · XGBoost · Pydantic · pytest
 
 ---
@@ -33,7 +34,7 @@ I don't come from notebooks. I come from production. My background is in shippin
 
 | Project | What It Does | Core Skills |
 |---|---|---|
-| [**docquery**](https://github.com/luannamorim/docquery) | Production RAG system for technical documentation with hybrid retrieval, RAGAS evaluation metrics, and a FastAPI serving layer | RAG · Embeddings · Evaluation · FastAPI |
+| **docquery** | Production RAG system for technical documentation with hybrid retrieval, RAGAS evaluation metrics, and a FastAPI serving layer | RAG · Embeddings · Evaluation · FastAPI |
 | **agentflow** | Multi-step AI agent using MCP protocol with tool orchestration, state management, and failure recovery | AI Agents · MCP · LangGraph · Observability |
 | **llmguard** | Evaluation and observability framework for LLM systems: golden test sets, LLM-as-judge, cost tracking, and monitoring dashboards | LLMOps · DeepEval · Grafana · OpenTelemetry |
 | **fraudsense** | Anomaly detection API combining classical ML scoring with LLM-powered natural language explanations | ML + LLM Integration · XGBoost · FastAPI |
@@ -56,5 +57,5 @@ Every project in this portfolio reflects a question I'd ask in a production sett
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luannamorim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luanntech@gmail.com)
