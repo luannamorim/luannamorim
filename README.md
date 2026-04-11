@@ -20,11 +20,10 @@ I don't come from notebooks. I come from production. My background is in shippin
 ---
 
 ## 🚀 Shipped Products
-
-| Product | What It Is |
-|---|---|
-| [**Pompter**](https://pompter.com/) | AI Prompt Marketplace. Create, share, and sell AI prompts with dynamic variables. Built and deployed end-to-end. |
-| + other projects | Production systems in fintech (private repos). APIs, integrations, and backend services running in real environments. |
+| Product | Stack | Description |
+|---|---|---|
+| [**Pompter**](https://pompter.com/) | Next.js, Supabase, Stripe Connect, Vercel | AI prompt marketplace with dynamic variables, creator payouts, and i18n |
+| + other projects | Python, React, TypeScript, Node.js, AI/ML | Production fintech systems, APIs, and integrations (private repos) |
 
 ---
 
