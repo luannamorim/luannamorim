@@ -1,9 +1,10 @@
 # Hey, I'm Luann ⚡
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="280">
 </p>
-> *"Do. Or do not. There is no try."* — Yoda  
-> *(In production, there is only deploy.)*
+
+> *"All we have to decide is what to do with the time that is given us."*  
+> — Gandalf, The Lord of the Rings
 
 **Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
 
