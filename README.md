@@ -37,7 +37,7 @@ I don't come from notebooks. I come from production. My background is in shippin
 | **agentflow** | Multi-step AI agent using MCP protocol with tool orchestration, state management, and failure recovery | AI Agents · MCP · LangGraph · Observability |
 | **llmguard** | Evaluation and observability framework for LLM systems: golden test sets, LLM-as-judge, cost tracking, and monitoring dashboards | LLMOps · DeepEval · Grafana · OpenTelemetry |
 | **fraudsense** | Anomaly detection API combining classical ML scoring with LLM-powered natural language explanations | ML + LLM Integration · XGBoost · FastAPI |
-| **deployer** | Production-ready deployment template for LLM applications: containerization, CI/CD, health checks, rate limiting, structured logging | DevOps · Docker · GitHub Actions · MLOps |
+| [**deployer**](https://github.com/luannamorim/deployer) | Production-ready deployment template for LLM applications: containerization, CI/CD, health checks, rate limiting, structured logging | DevOps · Docker · GitHub Actions · MLOps |
 
 ---
 
