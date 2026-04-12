@@ -1,4 +1,4 @@
-# Hey, I'm Luann ⚡
+# Hey, I'm Luann 🖖
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp3YmprenNuMHZmNndtaTZ6d25sNGo2ZWR6MzU4dmduYXowcXVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNAhQuDceLwwo/giphy.gif" width="280">
