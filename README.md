@@ -1,6 +1,7 @@
 # Hey, I'm Luann ⚡
+
 <p align="center">
-  <img src="[https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif](https://tenor.com/pt-BR/view/gandalf-sax-gandalf-gif-22099442)" width="280">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp3YmprenNuMHZmNndtaTZ6d25sNGo2ZWR6MzU4dmduYXowcXVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNAhQuDceLwwo/giphy.gif" width="280">
 </p>
 
 > *"All we have to decide is what to do with the time that is given us."*  
