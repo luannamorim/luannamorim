@@ -1,6 +1,7 @@
 # Hey, I'm Luann ⚡
-![Star Wars](https://img.shields.io/badge/Jedi%20Engineer-May%20the%20Force-FFE81F?style=flat&logo=starwars&logoColor=black)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="120">
+</p>
 > *"Do. Or do not. There is no try."* — Yoda  
 > *(In production, there is only deploy.)*
 
