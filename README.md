@@ -1,4 +1,8 @@
-# Hey, I'm Luann 👋
+# Hey, I'm Luann ⚡
+![Star Wars](https://img.shields.io/badge/Jedi%20Engineer-May%20the%20Force-FFE81F?style=flat&logo=starwars&logoColor=black)
+
+> *"Do. Or do not. There is no try."* — Yoda  
+> *(In production, there is only deploy.)*
 
 **Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
 
