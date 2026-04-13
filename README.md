@@ -1,9 +1,17 @@
+# Hey, I'm Luann ツ
+
+Backend Engineer transitioning into AI Engineering, based in Brazil.
+
+I have 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas.
+
+[More about me →](https://linkedin.com/in/YOUR-LINKEDIN)
+
 ## [>] Shipped Products
 
 | Product | Stack | Description |
 |---|---|---|
 | [**Pompter**](https://pompter.com/) | Next.js, Supabase, Stripe Connect, Vercel | AI prompt marketplace with dynamic variables, creator payouts, and i18n |
-| + other projects | Python, React, TypeScript, Node.js, AI/ML | Production fintech systems, APIs, and integrations (private repos) |
+| + other projects | Python, React, TypeScript, Node.js, AI/ML | Production fintech systems, APIs, and integrations (private repos & enterprise accounts) |
 
 ## [/] Portfolio Projects
 
