@@ -1,16 +1,16 @@
-.       .       .             .            .            .
-                        .
-      .       8888888
-            88888888888        .     .                .
-   .       8888888888888
-          888888888888888    .                 .                .
-          888888888888888
-        .  8888888888888              .       .        .
- .          88888888888
-       .      8888888   .           .                      .
-                             .            .                      .
-   .           .                                       .
-        .             .              .          .
+                                     /~\
+                                    ( oo|    Hello!
+                                    _\=/_ 
+                    ___         #  /  _  \
+                   / ()\        \\//|/.\|\\
+                 _|_____|_       \/  \_/  ||
+                | | === | |         |\ /| ||
+                |_|  O  |_|         \_ _/  #
+                 ||  O  ||          | | |
+                 ||__*__||          | | |
+                |~ \___/ ~|         []|[]
+                /=\ /=\ /=\         | | |
+________________[_]_[_]_[_]________/_]_[_\_________________________
 
 I'm a backend developer with 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas and making a deliberate transition into AI Engineering.
 
