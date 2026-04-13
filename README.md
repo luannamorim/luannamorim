@@ -4,7 +4,7 @@ Backend Engineer transitioning into AI Engineering, based in Brazil.
 
 I have 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas.
 
-[More about me →](https://linkedin.com/in/YOUR-LINKEDIN)
+[More about me →](https://www.linkedin.com/in/luannamorim/)
 
 ## [>] Shipped Products
 
