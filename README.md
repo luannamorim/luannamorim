@@ -1,6 +1,10 @@
 # Hey, I'm Luann!
 
-```text
+<div align="center">
+
+<h1>Hey, I'm Luann!</h1>
+
+<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠺⣿⣿⠿⠿⠿⠿⠿⢷⣶⣿⣿⣿⣿⣿⣿⣿⣿⣶⡾⠿⠿⠿⠿⠿⣿⣿⠗
 ⠀⠈⠛⢷⣦⣀⡀⠀⣿⣿⠛⠉⠙⢿⡿⠋⠉⠛⣿⣿⠀⢀⣀⣴⡾⠛⠁⠀
@@ -14,8 +18,16 @@
 ⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⠀⢸⡇⠀⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⠀⢸⡇⠀⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠛⠻⠿⣿⣿⣿⠀⢸⡇⠀⣿⣿⣿⠿⠟⠛⠀⠀⠀⠀⠀⠀
-```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+
+<b>Backend Engineer → AI Engineer</b><br/>
+Python · LLMs · Production Systems
+
+</div>
+
+---
+
 **Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
 
 I'm a backend developer with 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas and making a deliberate transition into AI Engineering.
