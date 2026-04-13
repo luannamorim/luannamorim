@@ -15,7 +15,7 @@ Currently pursuing a degree in Software Engineering and a postgraduate degree in
 | [**Pompter**](https://pompter.com/) | Next.js, Supabase, Stripe Connect, Vercel | AI prompt marketplace with dynamic variables, creator payouts, and i18n |
 | + other projects | Python, React, TypeScript, Node.js, AI/ML | Production fintech systems, APIs, and integrations (private repos & enterprise accounts) |
 
-## [/] Portfolio Projects
+## [/] Main Portfolio Projects
 
 > Each project is built with a production mindset. Not tutorials, not toy demos. These are systems designed to be deployed, evaluated, and maintained.
 
