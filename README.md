@@ -1,19 +1,11 @@
-                                    
-                                     /~\
-                                    ( oo|    Oh my! Hello there.
-                                    _\=/_ 
-                    ___         #  /  _  \
-                   / ()\        \\//|/.\|\\
-                 _|_____|_       \/  \_/  ||
-                | | === | |         |\ /| ||
-                |_|  O  |_|         \_ _/  #
-                 ||  O  ||          | | |
-                 ||__*__||          | | |
-                |~ \___/ ~|         []|[]
-                /=\ /=\ /=\         | | |
-________________[_]_[_]_[_]________/_]_[_\_________________________
+# Hey, I'm Luann ツ
 
-# Hey, I'm Luann
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp3YmprenNuMHZmNndtaTZ6d25sNGo2ZWR6MzU4dmduYXowcXVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNAhQuDceLwwo/giphy.gif" width="280">
+</p>
+
+> *"All we have to decide is what to do with the time that is given us."*  
+> — Gandalf, The Lord of the Rings
 
 **Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
 
