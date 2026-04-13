@@ -1,14 +1,5 @@
-# Hey, I'm Luann ツ
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHp3YmprenNuMHZmNndtaTZ6d25sNGo2ZWR6MzU4dmduYXowcXVqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CNAhQuDceLwwo/giphy.gif" width="280">
-</p>
-
-> *"All we have to decide is what to do with the time that is given us."*  
-> — Gandalf, The Lord of the Rings
-
-**Backend Engineer → AI Engineer**  
-LLMs · Distributed Systems · Production AI
+# Luann Amorim
+### Backend Engineer/AI Engineer
 
 I'm a backend developer with 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas and making a deliberate transition into AI Engineering.
 
