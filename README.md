@@ -14,8 +14,7 @@ I'm a backend developer with 4+ years of experience building APIs, microservices
 I don't come from notebooks. I come from production. My background is in shipping reliable backend systems, and now I'm applying that same engineering discipline to LLM applications, RAG pipelines, AI agents, and MLOps.
 
 ---
-
-## 🛠️ What I Work With
+## [~] What I Work With
 
 **AI & LLMs:** LangChain · LlamaIndex · RAG · AI Agents · MCP · Prompt Engineering · LLM Evaluation  
 **Backend:** Python · FastAPI · Node.js · REST APIs · Celery · RabbitMQ · PostgreSQL · Redis  
@@ -26,7 +25,8 @@ I don't come from notebooks. I come from production. My background is in shippin
 
 ---
 
-## 🚀 Shipped Products
+## [>] Shipped Products
+
 | Product | Stack | Description |
 |---|---|---|
 | [**Pompter**](https://pompter.com/) | Next.js, Supabase, Stripe Connect, Vercel | AI prompt marketplace with dynamic variables, creator payouts, and i18n |
@@ -34,7 +34,7 @@ I don't come from notebooks. I come from production. My background is in shippin
 
 ---
 
-## 📂 Portfolio Projects
+## [/] Portfolio Projects
 
 > Each project is built with a production mindset. Not tutorials, not toy demos. These are systems designed to be deployed, evaluated, and maintained.
 
@@ -48,7 +48,7 @@ I don't come from notebooks. I come from production. My background is in shippin
 
 ---
 
-## 📐 How I Think About AI Engineering
+## [*] How I Think About AI Engineering
 
 I believe the gap in the market isn't "people who can call an LLM API." It's **engineers who can build, evaluate, deploy, and operate AI systems in production**. That's the lane I'm building in.
 
@@ -61,7 +61,7 @@ Every project in this portfolio reflects a question I'd ask in a production sett
 
 ---
 
-## 📫 Let's Connect
+## [@] Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luannamorim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luanntech@gmail.com)
