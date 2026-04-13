@@ -7,7 +7,8 @@
 > *"All we have to decide is what to do with the time that is given us."*  
 > — Gandalf, The Lord of the Rings
 
-**Backend Engineer → AI Engineer** | Python · LLMs · Production Systems
+**Backend Engineer / AI Engineer**  
+Python · LLMs · Production Systems
 
 I'm a backend developer with 4+ years of experience building APIs, microservices, and production systems in fintech. Currently pursuing a graduate degree in Artificial Intelligence at PUC Minas and making a deliberate transition into AI Engineering.
 
