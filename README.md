@@ -22,7 +22,7 @@ Currently pursuing a degree in Software Engineering and a postgraduate degree in
 | Project | What It Does | Core Skills |
 |---|---|---|
 | [**docquery**](https://github.com/luannamorim/docquery) | Production RAG system for technical documentation with hybrid retrieval, RAGAS evaluation metrics, and a FastAPI serving layer | RAG · Embeddings · Evaluation · FastAPI |
-| **agentflow** | Multi-step AI agent using MCP protocol with tool orchestration, state management, and failure recovery | AI Agents · MCP · LangGraph · Observability |
-| **llmguard** | Evaluation and observability framework for LLM systems: golden test sets, LLM-as-judge, cost tracking, and monitoring dashboards | LLMOps · DeepEval · Grafana · OpenTelemetry |
-| **fraudsense** | Anomaly detection API combining classical ML scoring with LLM-powered natural language explanations | ML + LLM Integration · XGBoost · FastAPI |
+| **agentflow 🚧** | Multi-step AI agent using MCP protocol with tool orchestration, state management, and failure recovery | AI Agents · MCP · LangGraph · Observability |
+| **llmguard 🚧** | Evaluation and observability framework for LLM systems: golden test sets, LLM-as-judge, cost tracking, and monitoring dashboards | LLMOps · DeepEval · Grafana · OpenTelemetry |
+| **fraudsense 🚧** | Anomaly detection API combining classical ML scoring with LLM-powered natural language explanations | ML + LLM Integration · XGBoost · FastAPI |
 | [**deployer**](https://github.com/luannamorim/deployer) | Production-ready deployment template for LLM applications: containerization, CI/CD, health checks, rate limiting, structured logging | DevOps · Docker · GitHub Actions · MLOps |
