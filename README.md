@@ -1,6 +1,6 @@
 # Hey, I'm Luann ツ
 
-Backend Engineer transitioning into AI Engineering, based in Brazil.
+Software Engineer, based in Brazil.
 
 Currently pursuing a degree in Software Engineering and a postgraduate degree in Artificial Intelligence at PUC Minas, with a background in Finance and professional experience in the field.
 
